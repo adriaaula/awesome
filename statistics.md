@@ -20,3 +20,9 @@
   
 # R resources 
  
+[R for Data Science](http://r4ds.had.co.nz/)
+
+  - My go to for doubts and to initiate people. 
+  - Hadley's book. 
+  
+ 
